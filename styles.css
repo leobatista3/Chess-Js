@@ -8,7 +8,7 @@
   }
 
 .Header{
-    background-color: #3b3b3b;
+    background-color: #120c87;
     padding: 2%;
     font-family: 'Montserrat', sans-serif;    color: whitesmoke;
     font-weight: 100;
@@ -173,7 +173,7 @@
 }
 .PopUpHeader{
     position: relative; 
-    background-color: #51b035; 
+    background-color: #120c87; 
     height: auto; 
     padding: 5%;
     color: white; 
@@ -200,7 +200,7 @@
     font-family: 'Montserrat', sans-serif;}
 
 .ChooseSideButton{
-    background-color: #51b035;
+    background-color: #120c87;
     border: none;
     outline: none;
     border-radius: 5px;
@@ -224,7 +224,7 @@
 }
 
 .DifficultyButton{
-    background-color: #51b035;
+    background-color: #120c87;
 }
 .DifficultyButton:focus:hover{
     background-color: #446fd1;
@@ -296,7 +296,7 @@
 }
 
 .viewBoardButton{
-    background-color: rgb(255, 145, 0);
+    background-color: #120c87;
     border: none;
     outline: none;
     border-radius: 5px;
@@ -357,7 +357,7 @@ nav {
     align-items: center;
     list-style: none;
     min-height: 11vh;
-    background-color: #3b3b3b;
+    background-color: #ccc7c7;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -490,4 +490,9 @@ nav {
 .brownButton:focus, .blueButton:focus, .greenButton:focus{
     border: 2px solid black;
     transition: .2s;
+}
+
+#uni{
+    text-align: center;
+    margin-right: 80px;
 }
